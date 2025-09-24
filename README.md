@@ -6,5 +6,5 @@
 
 
 # DevOps
-![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/:DGBCALI03/:sMethodsDB/:workflow
+![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/DGBCALI03/sMethodsDB/main.yml
 )
