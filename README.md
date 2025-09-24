@@ -1,1 +1,1 @@
-![Build](https://github.com/USERNAME/REPO/actions/workflows/ci.yml/badge.svg)
+![workflow](https://github.com/<DGBCALI03>/<RepositoryName>/actions/workflows/main.yml/badge.svg)
